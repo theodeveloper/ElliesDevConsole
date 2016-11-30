@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+        <region>
+                <total>20000</total>
+                <city>Portland</city>
+                <state>OR</state>
+                <range>
+                        <range1>100000</range1>
+                        <range2>500000</range2>
+                        <range3>1500000</range3>
+                </range>
+        </region>
+        <region>
+                <total>20000</total>
+                <city>Seattle</city>
+                <state>WA</state>
+                <range>
+                        <range1>200000</range1>
+                        <range2>700000</range2>
+                        <range3>1900000</range3>
+                </range>
+        </region>
+</data>

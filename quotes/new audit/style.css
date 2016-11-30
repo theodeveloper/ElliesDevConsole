@@ -1,0 +1,167 @@
+@font-face {
+	font-family: neueLight;
+	src: url('fonts/HelveticaNeueLight.ttf');
+}
+@font-face {
+	font-family: neueBlack;
+	src: url('fonts/HelveticaNeueCondensedBlack.ttf');
+}
+@font-face {
+	font-family: neueBold;
+	src: url('fonts/HelveticaNeueBold.ttf');
+}
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+.icon_heading {
+	font-family: neueLight;
+}
+h2 {
+	
+}
+#container {
+	margin: 10px;
+}
+td {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.heading {
+	padding-left: 25px;
+	font-family: neueLight;
+}
+.quote_vals, .customer_vals {
+	padding-left: 30px;
+	font-family: neueBold;
+}
+.customer_icon {
+	padding-left: 150px;
+}
+
+.icon_heading {
+	font-family: neueLight;
+	color: rgb(51, 51, 51);
+}
+
+.icon_description {
+	font-family: neueLight;
+	color: #989899;
+	font-size:120%;
+}
+#overview {
+	width: 100%;
+	display: table;
+	border-spacing: 5px;
+	margin-bottom:60px;
+}
+.total_icon {
+	display: table-cell;
+	text-align: center;
+	border-right: 1px solid #959f83;
+	margin-top: 80px;
+	width: 20%;
+}
+.total_icon h2{
+	font-family: neueBlack;
+	font-size:190%;
+}
+.total_icon:last-child{ 
+	border:none;
+}
+
+.inner_icon{
+	/*margin: 5px 0px 5px 0px;*/
+}
+
+#savings, #losses{
+	width: 100%;
+	display: table;
+	border-spacing: 5px;
+	margin-bottom:60px;
+}
+
+.savings_icon, .losses_icon{
+	display: table-cell;
+	text-align: center;
+	border-right: 1px solid #959f83;
+	width: 16.6%;
+	vertical-align:top;    
+
+}
+
+.savings_icon:last-child, .losses_icon:last-child{ 
+	border:none;
+}
+
+.savings_icon p, .losses_icon p{
+	font-family:neueLight;
+	color: #989899;
+	margin-top:0;
+    margin-bottom:5px;
+	color:black;
+	font-family:neueBlack;
+	text-align:center;
+}
+.savings_icon:first-child p, .losses_icon:first-child p{
+	font-family:neueLight;
+	color: #989899;
+}
+
+.numberCircle {
+    -webkit-border-radius: 999px;
+    -moz-border-radius: 999px;
+    border-radius: 999px;
+    behavior: url(PIE.htc);
+
+    width: 80px;
+    height: 80px;
+    border: 5px solid #989899;
+    text-align: center;
+	margin: 0 auto;
+	margin-bottom:10px;
+    
+}
+
+.numberCircle h1{
+	font-family:neueLight;
+	font-weight:normal;
+	font-size:200%;
+	color: #989899;	
+}
+
+.savings_icon:nth-child(n+2) .numberCircle h1, .losses_icon:nth-child(n+2) .numberCircle h1{ 
+	font-size:400%;
+	color: #989899;
+	margin:0;
+	padding:0;
+	height:80px;
+	width:80px;
+	text-align:center;
+}
+
+#savings_year1, #savings_year1 h1{
+	color:#70AA00;
+	border-color:#70AA00;
+}
+
+#savings_year2, #savings_year2 h1{
+	color:#629400;
+	border-color:#629400;
+}
+
+#savings_year3, #savings_year3 h1{
+	color:#527D00;
+	border-color:#527D00;
+}
+
+#savings_year4, #savings_year4 h1{
+	color:#4A6C01;
+	border-color:#4A6C01;
+}
+
+#savings_year5, #savings_year5 h1{
+	color:#416500;
+	border-color:#416500;
+}

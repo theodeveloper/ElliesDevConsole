@@ -1,0 +1,19 @@
+#newquoteform {
+    width:100%;
+}
+
+
+#newquoteform th {
+    background-color:cornflowerblue;
+    font-weight:bold;
+    color:white;
+    width:200px !important;
+    text-align: right !important;
+    padding-right:5px;
+}
+
+#quote-listing th {
+    background-color:cornflowerblue;
+    font-weight:bold;
+    color:white;
+}

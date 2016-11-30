@@ -1,0 +1,13 @@
+print '<div class="item">';
+print '    <h2>Click me to expand</h2> ';
+print ' ';
+print '    <div class="content_w"> ';
+print ' ';
+print '        <div class="content"> ';
+print '            Lorem ipsum dolor sit amet, consectetur adipisicing elit, ';
+print '            sed do eiusmod tempor incididunt ut labore et dolore ';
+print '            magna aliqua. Ut enim ad minim veniam, quis nostrud ';
+print '            exercitation ullamco laboris nisi ut aliquip ...';
+print '        </div>';
+print '    </div>';
+print '</div>';

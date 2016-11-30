@@ -1,0 +1,203 @@
+Tech_Type,Option,New_Product_Code,Old_Tech_Type,New_Tech_Type,Related_To,Uses_KW,Old_KWh,New_KWh,Old_Litres,New_Litres,Price,Has_Stock
+Halogen,50W - GU10 - Downlight To LED ECO 4W GU10 180Lm COLD WHITE,FLEDGU10C,NULL,LED_HAL,Hours Per Year,1,0.05,0.004,0,0,109.99,1
+Halogen,50W - GU10 - Downlight To LED ECO 4W GU10 180Lm WARM WHITE,FLEDGU10W,NULL,LED_HAL,Hours Per Year,1,0.05,0.004,0,0,109.99,1
+Halogen,50W - MR16 - Downlight To LED ECO 4W MR16 180Lm COLD WHITE,FLEDMR16C,NULL,LED_HAL,Hours Per Year,1,0.05,0.004,0,0,119.99,1
+Halogen,50W - MR16 - Downlight To LED ECO 4W MR16 180Lm WARM WHITE,FLEDMR16W,NULL,LED_HAL,Hours Per Year,1,0.05,0.004,0,0,119.99,1
+IncandescentCFL,60W - B22  To Energy Saver 11W B22 2U-2700K (Warm White),FL11B222UW,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,24.99,1
+IncandescentCFL,60W - B22  To Energy Saver 11W B22 2U-6500K (Cold White),FL11B222U,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,24.99,1
+IncandescentCFL,60W - B22 To Energy Saver 11W B22 3U-2700K (Warm White),FL11B223UW,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,29.99,1
+IncandescentCFL,60W - B22 To Energy Saver 11W B22 3U-6500K (Cold White),FL11B223U,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,29.99,1
+IncandescentCFL,60W - E14 To Energy Saver 11W E14 3U-2700K (Warm White),FL11E143UW,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,29.99,1
+IncandescentCFL,60W - E14 To Energy Saver 11W E14 3U-6500K (Cold White),FL11E143U,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,29.99,1
+IncandescentCFL,60W - E27 To Energy Saver 11W E27 2U-6500K (Cold White),FL11E272U,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,24.99,1
+IncandescentCFL,60W - E27 To Energy Saver 11W E27 2U-6500K (Warm White),FL11E272UW,NULL,CFL,Hours Per Year,1,0.06,0.011,0,0,24.99,1
+IncandescentCFL,60W - B22 To Energy Saver 12W B22 Mini Spiral -2700K (Warm White),FL12B22MSW,NULL,CFL,Hours Per Year,1,0.06,0.012,0,0,34.99,1
+IncandescentCFL,60W - B22 To Energy Saver 12W B22 Mini Spiral -6500K (Cold White),FL12B22MS,NULL,CFL,Hours Per Year,1,0.06,0.012,0,0,34.99,1
+IncandescentCFL,60W - E27 To Energy Saver 12W E27 Mini Spiral -2700K (Warm White),FL12E27MSW,NULL,CFL,Hours Per Year,1,0.06,0.012,0,0,34.99,1
+IncandescentCFL,60W - E27 To Energy Saver 12W E27 Mini Spiral -6500K (Cold White),FL12E27MS,NULL,CFL,Hours Per Year,1,0.06,0.012,0,0,34.99,1
+IncandescentCFL,60W - B22  To Energy Saver 13W B22 2U-2700K (Warm White),FL13B222UW,NULL,CFL,Hours Per Year,1,0.06,0.013,0,0,24.99,1
+IncandescentCFL,60W - B22  To Energy Saver 13W B22 2U-6500K (Cold White),FL13B222U,NULL,CFL,Hours Per Year,1,0.06,0.013,0,0,0,0
+IncandescentCFL,60W - E27 To Energy Saver 13W E27 2U-2700K (Warm White),FL13E272UW,NULL,CFL,Hours Per Year,1,0.06,0.013,0,0,24.99,1
+IncandescentCFL,60W - E27 To Energy Saver 13W E27 2U-6500K (Cold White),FL13E272U,NULL,CFL,Hours Per Year,1,0.06,0.013,0,0,24.99,1
+IncandescentCFL,75W - B22 To Energy Saver 14W B22 3U-2700K (Warm White),FL14B223UW,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,29.99,1
+IncandescentCFL,75W - B22 To Energy Saver 14W B22 3U-6500K (Cold White),FL14B223U,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,29.99,1
+IncandescentCFL,75W - B22 To Energy Saver 14W B22 Mini Spiral -2700K (Warm White),FL14B22MSW,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,0,0
+IncandescentCFL,75W - B22 To Energy Saver 14W B22 Mini Spiral -6500K (Cold White),FL14B22MS,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,0,0
+IncandescentCFL,75W - E27 To Energy Saver 14W E27 3U-2700K (Warm White),FL14E273UW,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,29.99,1
+IncandescentCFL,75W - E27 To Energy Saver 14W E27 3U-6500K (Cold White),FL14E273U,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,29.99,1
+IncandescentCFL,75W - E27 To Energy Saver 14W E27 Mini Spiral -2700K (Warm White),FL14E27MSW,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,0,0
+IncandescentCFL,75W - E27 To Energy Saver 14W E27 Mini Spiral -6500K (Cold White),FL14E27MS,NULL,CFL,Hours Per Year,1,0.075,0.014,0,0,0,0
+IncandescentCFL,75W - B22 To Energy Saver 15W B22 2U-2700K (Warm White),FL15B222UW,NULL,CFL,Hours Per Year,1,0.075,0.015,0,0,0,0
+IncandescentCFL,75W - B22 To Energy Saver 15W B22 2U-6500K (Cold White),FL15B222U,NULL,CFL,Hours Per Year,1,0.075,0.015,0,0,0,0
+IncandescentCFL,75W - E27 To Energy Saver 15W E27 2U-2700K (Warm White),FL15E272UW,NULL,CFL,Hours Per Year,1,0.075,0.015,0,0,24.99,1
+IncandescentCFL,75W - E27 To Energy Saver 15W E27 2U-6500K (Cold White),FL15E272U,NULL,CFL,Hours Per Year,1,0.075,0.015,0,0,24.99,1
+IncandescentCFL,100W - B22 To Energy Saver 20W B22 Mini Spiral -2700K (Warm White),FL20B22MSW,NULL,CFL,Hours Per Year,1,0.1,0.02,0,0,42.99,1
+IncandescentCFL,100W - B22 To Energy Saver 20W B22 Mini Spiral -6500K (Cold White),FL20B22MS,NULL,CFL,Hours Per Year,1,0.1,0.02,0,0,42.99,1
+IncandescentCFL,100W - E27 To Energy Saver 20W E27 Mini Spiral -2700K (Warm White),FL20E27MSW,NULL,CFL,Hours Per Year,1,0.1,0.02,0,0,42.99,1
+IncandescentCFL,100W - E27 To Energy Saver 20W E27 Mini Spiral -6500K (Cold White),FL20E27MS,NULL,CFL,Hours Per Year,1,0.1,0.02,0,0,42.99,1
+IncandescentLED,15W - E14 - T45 - Mini-Spot To LED CLASSIC 2.2W T45 150Lm COLD WHITE E14,FLEDT45CE14,NULL,LED_INCAN,Hours Per Year,1,0.015,0.0022,0,0,69.99,1
+IncandescentLED,15W - E14 - T45 - Mini-Spot To LED CLASSIC 2.2W T45 150Lm WARM WHITE E14,FLEDT45WE14,NULL,LED_INCAN,Hours Per Year,1,0.015,0.0022,0,0,69.99,1
+IncandescentLED,18W - E14 - R50 - Mini-Spot To LED ECO 2W R50 180Lm COLD WHITE E14,FLEDR50CE14,NULL,LED_INCAN,Hours Per Year,1,0.018,0.002,0,0,119,1
+IncandescentLED,18W - E14 - R50 - Mini-Spot To LED ECO 2W R50 180Lm WARM WHITE E14,FLEDR50WE14,NULL,LED_INCAN,Hours Per Year,1,0.018,0.002,0,0,119,1
+IncandescentLED,25W - B22 - Golf Ball To LED CLASSIC 2.2W G45 150LM COLD WHITE B22,FLEDG45CB22,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,89.99,1
+IncandescentLED,25W - B22 - Golf Ball To LED CLASSIC 2.2W G45 150LM WARM WHITE B22,FLEDG45WB22,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,89.99,1
+IncandescentLED,25W - E14 - Candle To LED CLASSIC 2.2W C37 150Lm COLD WHITE E14,FLEDC37CE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,79.99,1
+IncandescentLED,25W - E14 - Candle To LED CLASSIC 2.2W C37 150Lm WARM WHITE E14,FLEDC37WE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,79.99,1
+IncandescentLED,25W - E14 - Candle To LED CLASSIC 2.2W CA37 150Lm COLD WHITE E14,FLEDCA37CE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,25W - E14 - Candle To LED CLASSIC 2.2W CA37 150Lm WARM WHITE E14,FLEDCA37WE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,25W - E14 - Golf Ball To LED CLASSIC 2.2W G45 150Lm COLD WHITE E14,FLEDG45CE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,25W - E14 - Golf Ball To LED CLASSIC 2.2W G45 150Lm WARM WHITE E14,FLEDG45WE14,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,25W - E27 - Golf Ball To LED CLASSIC 2.2W G45 150Lm COLD WHITE E27,FLEDG45CE27,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,25W - E27 - Golf Ball To LED CLASSIC 2.2W G45 150Lm WARM WHITE E27,FLEDG45WE27,NULL,LED_INCAN,Hours Per Year,1,0.025,0.0022,0,0,69.99,1
+IncandescentLED,30W - E27 - R63 - Mini-Spot To LED ECO 4W R63 350lm COLD WHITE E27,FLEDR63CE27,NULL,LED_INCAN,Hours Per Year,1,0.03,0.004,0,0,119,1
+IncandescentLED,30W - E27 - R63 - Mini-Spot To LED ECO 4W R63 350lm WARM WHITE E27,FLEDR63WE27,NULL,LED_INCAN,Hours Per Year,1,0.03,0.004,0,0,119,1
+IncandescentLED,35W - B22 - Golf Ball To LED CLASSIC 2.2W G45 150LM COLD WHITE B22,FLEDG45CB22,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,89.99,1
+IncandescentLED,35W - B22 - Golf Ball To LED CLASSIC 2.2W G45 150LM WARM WHITE B22,FLEDG45WB22,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,89.99,1
+IncandescentLED,35W - E14 - Candle To LED CLASSIC 2.2W C37 150Lm COLD WHITE E14,FLEDC37CE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,79.99,1
+IncandescentLED,35W - E14 - Candle To LED CLASSIC 2.2W C37 150Lm WARM WHITE E14,FLEDC37WE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,79.99,1
+IncandescentLED,35W - E14 - Candle To LED CLASSIC 2.2W CA37 150Lm COLD WHITE E14,FLEDCA37CE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,35W - E14 - Candle To LED CLASSIC 2.2W CA37 150Lm WARM WHITE E14,FLEDCA37WE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,35W - E14 - Golf Ball To LED CLASSIC 2.2W G45 150Lm COLD WHITE E14,FLEDG45CE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,35W - E14 - Golf Ball To LED CLASSIC 2.2W G45 150Lm WARM WHITE E14,FLEDG45WE14,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,35W - E27 - Golf Ball To LED CLASSIC 2.2W G45 150Lm COLD WHITE E27,FLEDG45CE27,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,35W - E27 - Golf Ball To LED CLASSIC 2.2W G45 150Lm WARM WHITE E27,FLEDG45WE27,NULL,LED_INCAN,Hours Per Year,1,0.035,0.0022,0,0,69.99,1
+IncandescentLED,60W - B22 To LED CLASSIC 5W A60 350LM COLD WHITE B22,FLEDA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.06,0.005,0,0,149.99,1
+IncandescentLED,60W - B22 To LED CLASSIC 5W A60 350Lm WARM WHITE B22,FLEDA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.06,0.005,0,0,149.99,1
+IncandescentLED,60W - B22 To LED PREMIUM 4W PA60 350LM COLD WHITE B22,FLEDPA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.06,0.004,0,0,0,0
+IncandescentLED,60W - B22 To LED PREMIUM 4W PA60 350LM WARM WHITE B22,FLEDPA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.06,0.004,0,0,0,0
+IncandescentLED,60W - E27 To LED CLASSIC 5W A60 350Lm COLD WHITE E27,FLEDA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.06,0.005,0,0,149.99,1
+IncandescentLED,60W - E27 To LED CLASSIC 5W A60 350Lm WARM WHITE E27,FLEDA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.06,0.005,0,0,149.99,1
+IncandescentLED,60W - E27 To LED PREMIUM 4W PA60 350Lm COLD WHITE E27,FLEDPA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.06,0.004,0,0,189,1
+IncandescentLED,60W - E27 To LED PREMIUM 4W PA60 350Lm WARM WHITE E27,FLEDPA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.06,0.004,0,0,189,1
+IncandescentLED,75W - B22 To LED CLASSIC 5W A60 350LM COLD WHITE B22,FLEDA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.075,0.005,0,0,149.99,1
+IncandescentLED,75W - B22 To LED CLASSIC 5W A60 350Lm WARM WHITE B22,FLEDA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.075,0.005,0,0,149.99,1
+IncandescentLED,75W - B22 To LED PREMIUM 4W PA60 350LM COLD WHITE B22,FLEDPA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.075,0.004,0,0,0,0
+IncandescentLED,75W - B22 To LED PREMIUM 4W PA60 350LM WARM WHITE B22,FLEDPA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.075,0.004,0,0,0,0
+IncandescentLED,75W - E27 To LED CLASSIC 5W A60 350Lm COLD WHITE E27,FLEDA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.075,0.005,0,0,149.99,1
+IncandescentLED,75W - E27 To LED CLASSIC 5W A60 350Lm WARM WHITE E27,FLEDA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.075,0.005,0,0,149.99,1
+IncandescentLED,75W - E27 To LED PREMIUM 4W PA60 350Lm COLD WHITE E27,FLEDPA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.075,0.004,0,0,189,1
+IncandescentLED,75W - E27 To LED PREMIUM 4W PA60 350Lm WARM WHITE E27,FLEDPA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.075,0.004,0,0,189,1
+IncandescentLED,100W - B22 To LED CLASSIC 5W A60 350LM COLD WHITE B22,FLEDA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.1,0.005,0,0,149.99,1
+IncandescentLED,100W - B22 To LED CLASSIC 5W A60 350Lm WARM WHITE B22,FLEDA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.1,0.005,0,0,149.99,1
+IncandescentLED,100W - B22 To LED PREMIUM 4W PA60 350LM COLD WHITE B22,FLEDPA60CB22,NULL,LED_INCAN,Hours Per Year,1,0.1,0.004,0,0,0,0
+IncandescentLED,100W - B22 To LED PREMIUM 4W PA60 350LM WARM WHITE B22,FLEDPA60WB22,NULL,LED_INCAN,Hours Per Year,1,0.1,0.004,0,0,0,0
+IncandescentLED,100W - E27 To LED CLASSIC 5W A60 350Lm COLD WHITE E27,FLEDA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.1,0.005,0,0,149.99,1
+IncandescentLED,100W - E27 To LED CLASSIC 5W A60 350Lm WARM WHITE E27,FLEDA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.1,0.005,0,0,149.99,1
+IncandescentLED,100W - E27 To LED PREMIUM 4W PA60 350Lm COLD WHITE E27,FLEDPA60CE27,NULL,LED_INCAN,Hours Per Year,1,0.1,0.004,0,0,189,1
+IncandescentLED,100W - E27 To LED PREMIUM 4W PA60 350Lm WARM WHITE E27,FLEDPA60WE27,NULL,LED_INCAN,Hours Per Year,1,0.1,0.004,0,0,189,1
+Showerhead,CEILING To Lotus Shower Head 150mm-10L/min,FSFSH1,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,250,1
+Showerhead,CEILING To Marigold Shower head 150mm-10l/min,FSFSH2,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,300,1
+Showerhead,CEILING To Sunflower Shower Head 180mm-10L/min,FSFSH3,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,270,1
+Showerhead,CEILING To Star Gazer 200mm round,FSFSH15,NULL,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,399,1
+Showerhead,CEILING To Gazania 200mm square,FSFSH16,NULL,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,449,1
+Showerhead,CEILING To Blossom 250mm round,FSFSH17,NULL,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,499,1
+Showerhead,CEILING To Cypress 250mm square,FSFSH18,NULL,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,859,1
+Showerhead,WALL To Lotus Shower Head 150mm-10L/min,FSFSH1,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,250,1
+Showerhead,WALL To Marigold Shower head 150mm-10l/min,FSFSH2,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,300,1
+Showerhead,"WALL To &frac12; Protea 8 Function 90mm Shower Head 10L/min",FSFSH5,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,300,1
+Showerhead,"WALL To &frac12; Rose Bud Durable White Finish 3 Functions 90mm-9Lmin",FSFSH6,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,145,1
+Showerhead,"WALL To &frac12; Rose Bud Chrome Finish 3 Functions 90mm-9Lmin",FSFSH7,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,145,1
+Showerhead,WALL To Dandelion 1 function,FSFSH12,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,215,1
+Showerhead,WALL To Orchid Dual function,FSFSH13,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,245,1
+Showerhead,WALL To Daffodil 2 spray,FSFSH14,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,245,1
+Showerhead,WALL To Tulip Dual function,FSFSH19,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,229,1
+Showerhead,WALL To Begonia 1 Function,FSFSH20,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,199,1
+Showerhead,WALL To Cosmos 70mm,FSFSH9,NULL,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,169,1
+Handshower,"HAND To &frac12; Blue Bell Hand Held 3 Function Chrome Shower Head 9L/min",FSFSH11,NULL,HANDSHOWER,Number Per Day,1,0,0.29,0,10,150,1
+Handshower,HAND To Calla Lily hand Shower 3 function,FSFSH21,NULL,HANDSHOWER,Number Per Day,1,0,0.29,0,10,159,1
+Flowregulator,Current To Water-flow Regulator M22/M24 insert 3L/Min,FSFR2,NULL,FLOWREGULATOR,Number Per Day,0,0,0,0,3,40,1
+Flowregulator,Current To Water-Flow Regulator M22/M24 Insert 5L/min,FSFR3,NULL,FLOWREGULATOR,Number Per Day,0,0,0,0,5,40,1
+Flowregulator,"Current To &frac12; Water-Flow Shower Adaptor 9L/min",FSFR9,NULL,FLOWREGULATOR,Number Per Day,1,0,0.29,0,10,40,1
+Floodlight,100W - FLOODLIGHT To LED FLOODLIGHT 10W 6000K,FLED10W,NULL,FLOODLIGHT,Hours Per Year,1,0.1,0.01,0,0,299,1
+Floodlight,300W - FLOODLIGHT To LED FLOODLIGHT 30W 6000K,FLED30W,NULL,FLOODLIGHT,Hours Per Year,1,0.3,0.03,0,0,899,1
+Fluorescent,No Fluorescents yet,NULL,NULL,Fluorescent,Hours Per Year,1,0,0,0,0,0,0
+Showerarm,No Showerarm yet,NULL,NULL,Showerarm,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W B22 2U-6500K (Cold White),FL11B222U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W B22 2U-2700K (Warm White),FL11B222UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W B22 3U-6500K (Cold White),FL11B223U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W B22 3U-2700K (Warm White),FL11B223UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W E27 2U-6500K (Cold White),FL11E272U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 11W E27 2U-6500K (Warm White),FL11E272UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,NULL,FL11E273U,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL11E273UW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 12W B22 Mini Spiral -6500K (Cold White),FL12B22MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 12W B22 Mini Spiral -2700K (Warm White),FL12B22MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 12W E27 Mini Spiral -6500K (Cold White),FL12E27MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 12W E27 Mini Spiral -2700K (Warm White),FL12E27MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 13W B22 2U-6500K (Cold White),FL13B222U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 13W B22 2U-2700K (Warm White),FL13B222UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 13W E27 2U-6500K (Cold White),FL13E272U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 13W E27 2U-2700K (Warm White),FL13E272UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W B22 3U-6500K (Cold White),FL14B223U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W B22 3U-2700K (Warm White),FL14B223UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W B22 Mini Spiral -6500K (Cold White),FL14B22MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W B22 Mini Spiral -2700K (Warm White),FL14B22MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W E27 3U-6500K (Cold White),FL14E273U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W E27 3U-2700K (Warm White),FL14E273UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W E27 Mini Spiral -6500K (Cold White),FL14E27MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 14W E27 Mini Spiral -2700K (Warm White),FL14E27MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 15W B22 2U-6500K (Cold White),FL15B222U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 15W B22 2U-2700K (Warm White),FL15B222UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 15W E27 2U-6500K (Cold White),FL15E272U,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 15W E27 2U-2700K (Warm White),FL15E272UW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,NULL,FL20B223U,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL20B223UW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 20W B22 Mini Spiral -6500K (Cold White),FL20B22MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 20W B22 Mini Spiral -2700K (Warm White),FL20B22MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,NULL,FL20E273U,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL20E273UW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 20W E27 Mini Spiral -6500K (Cold White),FL20E27MS,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver 20W E27 Mini Spiral -2700K (Warm White),FL20E27MSW,IncandescentCFL,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,NULL,FL23B223U,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23B223UW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23B22MS,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23B22MSW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23E273U,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23E273UW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23E27MS,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FL23E27MSW,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDC2WE14,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDMG2WB22,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDMG2WE14,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDMG2WE27,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDS3WGU10,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDS3WGU10W,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDS3WMR16,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDS3WMR16W,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,RFLD5WGU10 ,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,RFLD5WGU10W,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDG6WB22,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,NULL,FLDG6WE27,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To LED FLOODLIGHT 10W 6000K,FLED10W,Floodlight,FLOODLIGHT,Hours Per Year,1,0,0.01,0,0,299,1
+Nothing,NULL,FLED20W,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To LED FLOODLIGHT 30W 6000K,FLED30W,Floodlight,FLOODLIGHT,Hours Per Year,1,0,0.03,0,0,899,1
+Nothing,NULL,FLED50W,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Lotus Shower Head 150mm-10L/min,FSFSH1,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,250,1
+Nothing,Nothing To Marigold Shower head 150mm-10l/min,FSFSH2,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,300,1
+Nothing,Nothing To Sunflower Shower Head 180mm-10L/min,FSFSH3,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,270,1
+Nothing,"Nothing To &frac12; Protea 8 Function 90mm Shower Head 10L/min",FSFSH5,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,300,1
+Nothing,"Nothing To &frac12; Rose Bud Durable White Finish 3 Functions 90mm-9Lmin",FSFSH6,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,145,1
+Nothing,"Nothing To &frac12; Rose Bud Chrome Finish 3 Functions 90mm-9Lmin",FSFSH7,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,145,1
+Nothing,Nothing To Cosmos 70mm,FSFSH9,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,169,1
+Nothing,NULL,FSFSH10,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Dandelion 1 function,FSFSH12,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,215,1
+Nothing,Nothing To Orchid Dual function,FSFSH13,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,245,1
+Nothing,Nothing To Star Gazer 200mm round,FSFSH15,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,399,1
+Nothing,Nothing To Gazania 200mm square,FSFSH16,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,449,1
+Nothing,Nothing To Blossom 250mm round,FSFSH17,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,499,1
+Nothing,Nothing To Cypress 250mm square,FSFSH18,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.348,0,12,859,1
+Nothing,Nothing To Tulip Dual function,FSFSH19,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,229,1
+Nothing,Nothing To Begonia 1 Function,FSFSH20,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,199,1
+Nothing,"Nothing To &frac12; Blue Bell Hand Held 3 Function Chrome Shower Head 9L/min",FSFSH11,Handshower,HANDSHOWER,Number Per Day,1,0,0.29,0,10,150,1
+Nothing,Nothing To Daffodil 2 spray,FSFSH14,Showerhead,SHOWERHEAD,Number Per Day,1,0,0.29,0,10,245,1
+Nothing,Nothing To Calla Lily hand Shower 3 function,FSFSH21,Handshower,HANDSHOWER,Number Per Day,1,0,0.29,0,10,159,1
+Nothing,Nothing To Water-flow Regulator M22/M24 insert 3L/Min,FSFR2,Flowregulator,FLOWREGULATOR,Number Per Day,0,0,0,0,3,40,1
+Nothing,Nothing To Water-Flow Regulator M22/M24 Insert 5L/min,FSFR3,Flowregulator,FLOWREGULATOR,Number Per Day,0,0,0,0,5,40,1
+Nothing,"Nothing To &frac12; Water-Flow Shower Adaptor 9L/min",FSFR9,Flowregulator,FLOWREGULATOR,Number Per Day,1,0,0.29,0,10,40,1
+Nothing,NULL,FSFTH2,NULL,NULL,NULL,NULL,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver Halogen Lamp T8-30W -6500K (Cold White),FLT8H30,Fluorescent,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver Halogen Lamp T8-30W-2700K (Cold White),FLT8H30W,Fluorescent,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver Halogen Lamp T8-36W -6500K (Cold White),FLT8H36,Fluorescent,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Energy Saver Halogen Lamp T8-36W-2700K (Warm White),FLT8H36W,Fluorescent,NULL,Hours Per Year,1,0,0,0,0,0,0
+Nothing,Nothing To Shower Arm 400mm Square,FSFSHA1,Showerarm,NULL,Number Per Day,0,0,0,0,0,0,0
+Nothing,Nothing To Shower Arm 400mm Round,FSFSHA2,Showerarm,NULL,Number Per Day,0,0,0,0,0,0,0

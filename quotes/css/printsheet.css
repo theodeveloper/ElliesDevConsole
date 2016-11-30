@@ -1,0 +1,380 @@
+
+body 
+{
+	font-family: Helvetica Light, Arial;
+}
+
+#info_table, #customer_table{
+		font-size:12px;	
+}
+
+.heading{
+	font-family: neueLight;
+	color: #989899;
+	width:200px;
+	padding-left:10px;
+}
+
+#quote-details, #product-details{
+	padding-left:20px;	
+}
+#quote-details td, #product-details td{
+	padding-top:4px;
+	padding-bottom:4px;
+}
+
+#quote-details .heading, #product-details .heading{
+	padding-left:25px;
+	font-family:neueLight;
+	color: #989899;
+}
+
+ #product-details #item_number{
+	font-family:neueBold;
+}
+
+#info_table .quote_vals, #customer_table .quote_vals{
+	padding-left:10px;
+	padding-right:10px;
+	font-family:neueBold;
+}
+
+.product_table .prod_vals{
+	padding-left:0px;
+	font-family:neueBold;
+	width:100px;
+}
+
+.product_table .long_description{
+width:400px;	
+padding-right:40px;
+}
+
+.product_table .quote-vals
+{
+	padding-left:20px;
+}
+
+.product_table .heading:nth-child(even)
+{
+	padding-right:20px;
+}
+
+.product_table .heading:nth-child(odd)
+{
+	padding-right:20px;
+}
+
+.customer_icon{
+	/*padding-left:20px;
+	padding-right:10px;*/
+}
+
+#product_divider{
+	height:1px;
+	padding: 30px 0px 20px 0px;
+}
+
+.icon_heading{
+	font-family: neueLight;
+}
+
+.icon_description {
+	font-family: neueLight;
+	color: #989899;
+	font-size:15px;
+}
+
+
+#overview {
+	border-spacing: 5px;
+	margin-bottom:60px;
+}
+.total_icon {
+    display: block;
+    float: left;
+	text-align: center;
+	border-right: 1px solid #959f83;
+	margin-top: 80px;
+	width: 180px;
+}
+
+.total_icon:last-child{ 
+	border:none;
+}
+
+.inner_icon p{
+	/*margin: 5px 0px 5px 0px;*/
+	font-size:10px;
+}
+
+
+#savings, #losses, #hosiptal{
+	width: 100%;
+	display: table;
+	border-spacing: 5px;
+	margin-bottom:40px;
+
+}
+#savings_menu,#hosiptal_menu,#clinic_menu,#office_menu{
+margin-top:0px;
+margin-bottom:5px;
+}
+
+#savings_cont,#savings_cont2, #losses_cont, #hosiptal_cont, #clinic_cont, #officecont{
+	margin-top:-10px;
+}
+
+#losses_cont
+{
+}
+#savings_label p, #savings_label2 p, #losses_label p,#hosiptal_label p{
+	font-size:12px;
+	color: #989899;
+	font-family:neueLight;
+
+}
+
+
+.savings_icon, .savings_icon2, .losses_icon,.hosiptal_icon{
+	display: block;
+    float: left;
+	text-align: center;
+	border-right: 1px solid #959f83;
+	width: 16%;
+	vertical-align:top;
+	font-family:neueBold;
+
+}
+
+.savings_icon:last-child, .savings_icon2:last-child,.losses_icon:last-child,.hosiptal_icon:last-child{ 
+	border:none;
+}
+
+.savings_icon p, .savings_icon2 p,.losses_icon p,.hosiptal_icon p{
+	font-family:neueLight;
+	color: #989899;
+	margin-top:0;
+    margin-bottom:5px;
+	color:black;
+	font-family:neueBlack;
+	text-align:center;
+}
+.savings_icon:first-child p,.savings_icon2:first-child p, .losses_icon:first-child p,.hosiptal_icon:first-child p{
+	font-family:neueLight;
+	color: #989899;
+}
+
+---
+
+.savingsbig_icon, .losses_icon,.hosiptal_icon{
+	display: block;
+    float: left;
+	text-align: center;
+	border-right: 1px solid #959f83;
+	width: 16%;
+	vertical-align:top;
+	font-family:neueBold;
+
+}
+
+.savingsbig_icon:last-child, .losses_icon:last-child,.hosiptal_icon:last-child{ 
+	border:none;
+}
+
+.savingsbig_icon p, .losses_icon p, .hosiptal_icon p{
+	font-family:neueLight;
+	color: #989899;
+	margin-top:0;
+    margin-bottom:5px;
+	color:black;
+	font-family:neueBlack;
+	text-align:center;
+}
+.savingsbig_icon:first-child p, .losses_icon:first-child p, .hosiptal_icon:first-child p{
+	font-family:neueLight;
+	color: #989899;
+}
+
+.numberCircle {
+    -webkit-border-radius: 999px;
+    -moz-border-radius: 999px;
+    border-radius: 999px;
+    behavior: url(PIE.htc);
+
+    width: 60px;
+    height: 60px;
+    border: 5px solid #989899;
+    text-align: center;
+	margin: 0 auto;
+	margin-bottom:10px;
+    
+}
+
+.numberCircle h2{
+	font-family:neueLight;
+	font-weight:normal;
+	font-size:140%;
+	color: #989899;	
+}
+
+.savings_icon:nth-child(n+2) .numberCircle h2, .savings_icon2:nth-child(n+2) .numberCircle h2, .losses_icon:nth-child(n+2) .numberCircle h2,.hosiptal_icon:nth-child(n+2) .numberCircle h2{ 
+	font-size:400%;
+	color: #989899;
+	margin:0;
+	padding:0;
+	height:60px;
+	width:60px;
+	text-align:center;
+}
+
+#savings_year1, #savings_year1 h2{
+	color:#70AA00;
+	border-color:#70AA00;
+}
+
+#savings_year2, #savings_year2 h2{
+	color:#629400;
+	border-color:#629400;
+}
+
+#savings_year3, #savings_year3 h2{
+	color:#527D00;
+	border-color:#527D00;
+}
+
+#savings_year4, #savings_year4 h2{
+	color:#4A6C01;
+	border-color:#4A6C01;
+}
+
+#savings_year5, #savings_year5 h2{
+	color:#416500;
+	border-color:#416500;
+}
+
+#losses_year1, #losses_year1 h2{
+	color:#E7201A;
+	border-color:#E7201A;
+}
+
+#losses_year2, #losses_year2 h2{
+	color:#D61D1D;
+	border-color:#D61D1D;
+}
+
+#losses_year3, #losses_year3 h2{
+	color:#C61E1E;
+	border-color:#C61E1E;
+}
+
+#losses_year4, #losses_year4 h2{
+	color:#B72020;
+	border-color:#B72020;
+}
+
+#losses_year5, #losses_year5 h2{
+	color:#A52020;
+	border-color:#A52020;
+}
+
+/*Hosiptal*/
+#hosiptal_year1, #hosiptal_year1 h2{
+	color:#A52020;
+	border-color:#A52020;
+}
+#hosiptal_year2, #hosiptal_year2 h2{
+	color:#D61D1D;
+	border-color:#D61D1D;
+}
+#hosiptal_year3, #hosiptal_year3 h2{
+	color:#C61E1E;
+	border-color:#C61E1E;
+}
+#hosiptal_year4, #hosiptal_year4 h2{
+	color:#B72020;
+	border-color:#B72020;
+}
+#hosiptal_year5, #hosiptal_year5 h2{
+	color:#A52020;
+	border-color:#A52020;
+}
+
+/* Content wrapper */
+
+#product_menu{
+	margin:0px;
+	padding:0px;
+}
+
+#prod_heading:hover{
+	cursor:pointer;
+}
+
+.title_heading{
+	display:block;
+	margin-bottom:10px;
+}
+
+.inner_heading{
+	border:1px solid #70aa00;
+	border-radius:25px;
+	float:left;
+	width:450px;
+	font-family: neueLight;
+	font-size:20px;
+	padding-left:10px;
+}
+
+#losses_condition{
+	font-family:neueLight;
+	color:#989899;
+	vertical-align:top;
+	line-height:40px;
+	float:left;
+	padding-left:40px;
+}
+
+.title_span img{
+	padding:5px 0px 0px 5px;
+}
+.inner_heading:hover{
+	cursor:pointer;
+}
+
+#prod_icon, #savings_icon,#savings_icon2, #losses_icon,#hosiptal_icon {
+	/*float:left;*/
+	float:left;
+	margin-right:10px;
+	margin-top:5px;
+}
+
+.content_w {
+   /* margin-top:-50px;
+    overflow: hidden;
+    max-height: 0;
+    -webkit-transition: max-height 0.5s;
+   	-moz-transition: max-height 0.5s;
+ 	-o-transition: max-height 0.5s;
+	transition: max-height 0.5s;
+display:none;*/
+	margin-top:30px;
+}
+
+/*.hide {
+   position: absolute !important;
+   top: -9999px !important;
+   left: -9999px !important;
+}*/
+
+
+.circle {
+width:18px;
+height:27px;
+border-radius:50%;
+font-size:27px;
+color:#fff;
+line-height:27px;
+text-align:center;
+background:#ff0000;
+}

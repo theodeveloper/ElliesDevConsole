@@ -1,0 +1,136 @@
+#settings-container {
+    width: 100%;
+    min-height: 90%;
+    margin-top: 0;
+    padding: 0;
+    /*padding-left: 2%;*/
+    color: #333333;
+    font: 12px Arial,Helvetica,sans-serif !important;
+    line-height: 1em;
+}
+
+#settings-container a {
+    color: #2200CC;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.same-bg{
+    background-color: #C0C0C0;
+}
+
+#settings-container button {
+    font-size: 11px;
+    color: #333333;
+    cursor: pointer;
+}
+
+#settings-container .ibutton {
+    font-weight: 900;
+}
+
+#settings-container button:disabled {
+    color: #999999;
+    cursor: default !important;
+}
+
+#settings-container .settings-tables {
+    border-collapse: collapse;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+
+#settings-container .settings-tables thead th {
+    font-weight: 900;
+    text-align: left;
+    border: none;
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    /*padding-left: 1%;*/
+}
+
+#settings-container .settings-tables tbody td {
+    text-align: left;
+    border: 1px solid #999999;
+    padding: 3px;
+    /*padding-left: 2%;*/
+    /*padding-right: 2%;*/
+}
+
+#settings-container .settings-tables tbody th {
+    color: #111111;
+    border: 1px solid #999999;
+    /*border-top: 1px solid #C0C0C0;*/
+    /*border-bottom: 1px solid #C0C0C0;*/
+    text-align: right;
+    /*padding-left: 2%;*/
+    /*padding-right: 2%;*/
+    padding: 3px;
+    /*padding-right: 2%;*/
+}
+
+#settings-container .settings-tables tfoot {
+    border: none;
+}
+#settings-container .settings-tables tfoot td {
+    border: none;
+    border-top: 1px solid #DDDDDD;
+    border-bottom: 1px solid #DDDDDD;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    /*padding-left: 1%;*/
+}
+
+#settings-container { background: transparent; border: none; font-size: 12px; margin: 0; padding: 0;}
+#settings-container .ui-widget-header { background: none; background-color: #EEEEEE; border-top: none; border-left: none; border-right: none; border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0; margin: 0; padding-left: 10px; }
+#settings-container .ui-state-default { background: transparent; border: none; }
+#settings-container .ui-tabs-selected {background-image: url("css/images/ui-bg_glass_65_ffffff_1x400.png"); }
+#settings-container .ui-state-active { border: 1px solid #c0c0c0; border-bottom: none; border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0;}
+#settings-container .ui-state-default a { color: #444444; outline: none; }
+#settings-container .ui-state-active a { color: #444444; font-weight: 900;}
+
+.paging { padding:10px 0px 0px 0px; text-align:center; font-size:11px;}
+.paging.display{text-align:right;}
+.paging a {text-decoration: none !important; color: #333333 !important; font-size: 11px !important;}
+.paging a, .paging span {padding:2px 8px 2px 8px;}
+.paging span {font-weight:bold; color:#000; font-size:11px; }
+.paging a {color:#000; text-decoration:none; border:1px solid #dddddd;}
+.paging a:hover { text-decoration:none; background-color:#6C6C6C; color:#fff; border-color:#000;}
+.paging span.prn { font-size:11px; font-weight:normal; color:#aaa; }
+.paging a.prn { border:1px solid #dddddd;}
+.paging a.prn:hover { border-color:#000;}
+.paging p#total_count{color:#aaa; font-size:11px; padding-top:8px; padding-left:18px;}
+.paging p#total_display{color:#aaa; font-size:11px; padding-top:10px;}
+
+#ok-message, #ok-message2 {
+    display: none;
+    font-style: italic;
+    font-weight: 900;
+    color: #089609;
+}
+
+#error-message, #error-message2 {
+    display: none;
+    font-style: italic;
+    font-weight: 900;
+    color: #DD4B39;
+}
+
+input[type="text"], textarea {
+    border: 1px solid #ABABAB;
+}
+
+.acctitle {
+    background: -moz-linear-gradient(center top , #6C6E74 0%, #4B4D51 100%) repeat scroll 0 0 transparent;
+    box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.1) inset, 0 1px 0 0 rgba(0, 0, 0, 0.1);
+    color: #FDFDFD;
+    font: bold 12px/32px Arial,sans-serif;
+    height: 32px;
+    padding: 0 10px 0 40px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+    display:inline-block;
+    width: 94%;
+}

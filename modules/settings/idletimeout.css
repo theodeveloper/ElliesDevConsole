@@ -1,0 +1,28 @@
+#idletimeout{
+    background: #222;
+    /*border-top: 2px solid #AAA;*/
+    border-bottom: 2px solid #AAA;
+    color: #fff;
+    font-family: arial, sans-serif;
+    text-align:center;
+    font-size:12px;
+    padding:10px;
+    position:relative;
+    top:0px;
+    left:0;
+    right:0;
+    z-index: 100000;
+    display: none;
+    margin: 0;
+}
+
+#idletimeout a{
+    color:#fff;
+    font-weight:bold;
+    outline: none;
+}
+
+#idletimeout span{
+    font-weight:bold;
+    color:#fff;
+}

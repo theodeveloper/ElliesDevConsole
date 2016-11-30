@@ -1,0 +1,89 @@
+Product,Code,Product Type,Description,Table,Related To,Existing KWh,Existing Litres,Crush Charge,Price Now,Lifetime
+Existing - Wall,Exi0000173,Showerhead,wall,Shower,Hours Per Year,0,0,,,
+Existing - Ceiling,Exi0000174,Showerhead,ceiling,shower,Hours Per Year,0,0,,,
+Existing - Handshower,Exi0000175,Showerhead,Handshower,shower,Hours Per Year,0,0,,,
+PL 2 Pin - 1 X 7W,Exi0000047,2 Pin,PL 2 pin - 1 X,PL,Hours Per Year,0.007,0,5,5,6000
+E14 - 8W - CFL,Exi0000078,E14,E14 - CFL,CFL,Hours Per Year,0.008,0,5,5,
+PL 2 Pin - 1 X 9W,Exi0000048,2 Pin,PL 2 pin - 1 X,PL,Hours Per Year,0.009,0,5,5,6000
+PL 2 Pin - 1 X 10W,Exi0000170,2 Pin,PL 2 pin - 1 X,PL,Hours Per Year,0.01,0,5,5,6000
+B22 - 11W - CFL,Exi0000004,B22,B22 - CFL,CFL,Hours Per Year,0.011,0,5,5,6000
+E14 - 11W - CFL,Exi0000081,E14,E14 - CFL,CFL,Hours Per Year,0.011,0,5,5,
+E27 - 11W - CFL,Exi0000086,E27,E27 - CFL,CFL,Hours Per Year,0.011,0,5,5,
+PL 2 Pin - 1 X 11W,Exi0000168,2 Pin,PL 2 pin - 1 X ,PL,Hours Per Year,0.011,0,5,5,6000
+E14 - 12W - CFL,Exi0000079,E14,E14 - CFL,CFL,Hours Per Year,0.012,0,5,5,
+B22 - 14W - CFL,Exi0000005,B22,B22 - CFL,CFL,Hours Per Year,0.014,0,5,5,6000
+E14 - 14W - CFL,Exi0000082,E14,E14 - CFL,CFL,Hours Per Year,0.014,0,5,5,
+E27 - 14W - CFL,Exi0000096,E27,E27 - CFL,CFL,Hours Per Year,0.014,0,5,5,
+E14 - 15W - CFL,Exi0000080,E14,E14 - CFL,CFL,Hours Per Year,0.015,0,5,5,
+Halogen 20W GU10,Exi0000120,GU10,GU10,Halogen,Hours Per Year,0.02,0,5,5,
+MR16 - 1 X 20W - Recessed,Exi0000143,MR16,MR16,Halogen,Hours Per Year,0.02,0,5,5,
+Halogen 20W MR16,Exi0000145,MR16,MR16,Halogen,Hours Per Year,0.02,0,5,5,
+E14 - 25W - Golf Ball,Exi0000001,E14,"E14,20 - 42w",Incandescent,Hours Per Year,0.025,0,5,5,1000
+E14 - 28W - Halogen Candle,Exi0000084,E14,"E14,20 - 42w",Halogen,Hours Per Year,0.028,0,5,5,
+E14 - 28W - Halogen GLS,Exi0000105,E14,"E14,20 - 42w",Halogen,Hours Per Year,0.028,0,5,5,
+B22 - 28W - Halogen Candle,Exi0000125,B22,"B22,20 - 40w",Halogen,Hours Per Year,0.028,0,5,5,
+E27 - 32W - CFL,Exi0000176,CFL,E27 - CFL,CFL,Hours Per Year,0.032,0,5,5,
+E14 - 32W - CFL,Exi0000177,CFL,E14 - CFL,CFL,Hours Per Year,0.032,0,5,5,
+B22 - 32W - CFL,Exi0000178,CFL,B22 - CFL,CFL,Hours Per Year,0.032,0,5,5,
+E14 - 35W - Golf Ball,Exi0000002,E14,"E14,20 - 42w",Incandescent,Hours Per Year,0.035,0,5,5,1000
+Halogen 35W MR16,Exi0000023,MR16,MR16,Halogen,Hours Per Year,0.035,0,5,5,1000
+Halogen 35W GU10,Exi0000025,GU10,GU10,Halogen,Hours Per Year,0.035,0,5,5,1000
+G12 - 35W - Spot,Exi0000037,G12,Metal Halide,Metal Halide,Hours Per Year,0.035,0,5,5,1000
+MR16 - 1 X 35W - Recessed,Exi0000142,MR16,MR16,Halogen,Hours Per Year,0.035,0,5,5,
+T8 - 1 X 36W - 4 foot,Exi0000040,T8,T8 1 X 4 foot,Fluorescent,Hours Per Year,0.036,0,5,5,8000
+Flood PL - 2 X 18W,Exi0000110,2 Pin,Flood - PL 2 X,CFL,Hours Per Year,0.036,0,5,5,
+B22 - 40W - GLS,Exi0000026,B22,"B22,40 - 60w",Incandescent,Hours Per Year,0.04,0,5,5,1000
+B22 - 40W - Candle,Exi0000031,B22,"B22,40 - 60w",Incandescent,Hours Per Year,0.04,0,5,5,1000
+E14 - 40W - Candle,Exi0000032,E14,"E14,40 - 60w",Incandescent,Hours Per Year,0.04,0,5,5,1000
+E14 - 40W - Incandescent,Exi0000104,E14,"E14,20 - 42w",Incandescent,Hours Per Year,0.04,0,5,5,
+B22 - 40W - Incandescent Candle,Exi0000127,B22,"B22,20 - 40w",Incandescent,Hours Per Year,0.04,0,5,5,
+E14 - 40W - Incandescent Candle,Exi0000130,E14,"E14,20 - 42w",Halogen,Hours Per Year,0.04,0,5,5,
+MR16 - 2 X 20W - Recessed,Exi0000136,MR16,MR16 - 2 X,Halogen,Hours Per Year,0.04,0,5,5,
+E27 - 40W - Incandescent,Exi0000163,E27,"E27,40 - 60w",Incandescent,Hours Per Year,0.04,0,5,5,
+B22 - 42W - Halogen Candle,Exi0000126,B22,"B22,40 - 60w",Halogen,Hours Per Year,0.042,0,5,5,
+E14 - 42W - Halogen Candle,Exi0000128,E14,"E14,40 - 60w",Halogen,Hours Per Year,0.042,0,5,5,
+MR16 - 1 X 42W - Recessed,Exi0000141,MR16,MR16,Halogen,Hours Per Year,0.042,0,5,5,
+Flood CFL - 1 X 45W,Exi0000113,E27,Flood - CFL,CFL,Hours Per Year,0.045,0,5,5,
+Halogen 50W MR16,Exi0000022,MR16,MR16,Halogen,Hours Per Year,0.05,0,5,5,1000
+Halogen 50W GU10,Exi0000024,GU10,GU10,Halogen,Hours Per Year,0.05,0,5,5,1000
+MR16 - 1 X 50W - Recessed,Exi0000140,MR16,MR16,Halogen,Hours Per Year,0.05,0,5,5,
+Flood PL - 2 X 26W,Exi0000111,2 Pin,Flood - PL 2 X,CFL,Hours Per Year,0.052,0,5,5,
+T8 - 1 X 58W - 5 foot,Exi0000073,T8,T8 1 X 5 foot,Fluorescent,Hours Per Year,0.058,0,5,5,8000
+E14 - 60W - Golf Ball,Exi0000003,E14,"E14,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,1000
+B22 - 60W - Candle,Exi0000028,B22,"B22,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,1000
+E14 - 60W - Candle,Exi0000029,E14,"E14,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,1000
+E27 - 60W - Incandescent,Exi0000098,E27,"E27,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,
+B22 - 60W - Incandescent,Exi0000101,B22,"B22,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,
+B22 - 60W - Incandescent Candle,Exi0000124,B22,"B22,60 - 100w",Incandescent,Hours Per Year,0.06,0,5,5,
+E14 - 60W - Incandescent Candle,Exi0000129,E14,"E14,60 - 100w",Halogen,Hours Per Year,0.06,0,5,5,
+T12 - 1 X 65W,Exi0000167,T12,T12 - 1 X,Fluorescent,Hours Per Year,0.065,0,5,5,
+Flood MH - 70W,Exi0000009,Floodlight,HID Floodlight,MH,Hours Per Year,0.07,0,5,5,10000
+Flood HPS - E27 70W,Exi0000015,Floodlight,HID Floodlight,HPS,Hours Per Year,0.07,0,5,5,23000
+G12 - 70W - Spot,Exi0000036,G12,Metal Halide,Metal Halide,Hours Per Year,0.07,0,5,5,1000
+MR16 - 2 X 35W - Recessed,Exi0000135,MR16,MR16 - 2 X,Halogen,Hours Per Year,0.07,0,5,5,
+T8 - 2 X 36W - 4 foot,Exi0000041,T8,T8 2 X 4 foot,Fluorescent,Hours Per Year,0.072,0,5,5,8000
+MR16 - 1 X 75W - Recessed,Exi0000144,MR16,MR16,Halogen,Hours Per Year,0.075,0,5,5,
+Halogen 75W MR16,Exi0000146,MR16,MR16,Halogen,Hours Per Year,0.075,0,5,5,
+Flood MV - E27 80W,Exi0000012,Floodlight,HID Floodlight,MV,Hours Per Year,0.08,0,5,5,10000
+T12 - 2 X 40W - 4 foot,Exi0000042,T12,T12 2 X 4 foot,Fluorescent,Hours Per Year,0.08,0,5,5,6000
+MR16 - 2 X 42W - Recessed,Exi0000134,MR16,MR16 - 2 X,Halogen,Hours Per Year,0.084,0,5,5,
+Flood CFL - 1 X 85W,Exi0000114,E40,Flood - CFL,CFL,Hours Per Year,0.085,0,5,5,
+E27 - 100W - Incandescent,Exi0000100,E27,"E27,100 - 120w",Incandescent,Hours Per Year,0.1,0,5,5,
+B22 - 100W - Incandescent,Exi0000103,B22,"B22,60 - 100w",Incandescent,Hours Per Year,0.1,0,5,5,
+MR16 - 2 X 50W - Recessed,Exi0000133,MR16,MR16 - 2 X,Halogen,Hours Per Year,0.1,0,5,5,
+T8 - 2 X 58W - 5 foot,Exi0000068,T8,T8 2 x 5 foot,Fluorescent,Hours Per Year,0.116,0,5,5,8000
+Flood MV - E27 125W,Exi0000011,Floodlight,HID Floodlight,MV,Hours Per Year,0.125,0,5,5,10000
+T12 - 2 X 65W - 5 foot,Exi0000043,T12,T12 2 X 5 foot,Fluorescent,Hours Per Year,0.13,0,5,5,6000
+Flood MH - 150W,Exi0000008,Floodlight,HID Floodlight,MH,Hours Per Year,0.15,0,5,5,10000
+Flood HPS - E40 150W,Exi0000014,Floodlight,HID Floodlight,HPS,Hours Per Year,0.15,0,5,5,23000
+G12 - 150W - Spot,Exi0000035,G12,Metal Halide,Metal Halide,Hours Per Year,0.15,0,5,5,1000
+MR16 - 2 X 75W - Recessed,Exi0000137,MR16,MR16 - 2 X,Halogen,Hours Per Year,0.15,0,5,5,
+Flood MBL - 160W,Exi0000112,E27,Mercury Blended,MBL,Hours Per Year,0.16,0,5,5,
+Flood MH - E40 250W,Exi0000007,Floodlight,HID Floodlight,MH,Hours Per Year,0.25,0,5,5,10000
+Flood MV - E40 250W,Exi0000010,Floodlight,HID Floodlight,MV,Hours Per Year,0.25,0,5,5,10000
+Flood HPS - E40 250W,Exi0000013,Floodlight,HID Floodlight,HPS,Hours Per Year,0.25,0,5,5,23000
+Flood MBL - 250W,Exi0000118,E40,Mercury Blended,MBL,Hours Per Year,0.25,0,5,5,
+Flood MH - E40 400W,Exi0000017,Floodlight,HID Floodlight,MH,Hours Per Year,0.4,0,5,5,10000
+Flood MV - E40 400W,Exi0000019,Floodlight,HID Floodlight,MV,Hours Per Year,0.4,0,5,5,10000
+Flood HPS - E40 400W,Exi0000021,Floodlight,HID Floodlight,HPS,Hours Per Year,0.4,0,5,5,23000
+Flood MBL - 500W,Exi0000119,E40,Mercury Blended,MBL,Hours Per Year,0.5,0,5,5,

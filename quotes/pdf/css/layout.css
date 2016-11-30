@@ -1,0 +1,51 @@
+h1 {
+    font-family: arial;
+    font-size: 15pt;
+    text-align: left;
+    }
+h2 {
+    font-family: times;
+    font-size: 11pt;
+    text-align: left;
+   }
+table  {
+    border-spacing: 0px;
+    margin-right:auto; 
+    margin-left:auto; 
+    padding: 0px 0px 7px 2px;
+ }
+
+table.tableCell {
+    padding: 3px 0px 30px 3px;
+ }
+ 
+td{
+    border:0px solid #000;
+    text-align:left;
+    font-family: arial;
+    font-size: 9pt;
+}
+
+ p{
+    font-family: arial;
+    font-size: 10pt;   
+ }
+.details{
+    font-size: 9pt;
+    text-align:left;
+ }
+ul .details{
+    font-size: 9pt;
+    text-align:left; 
+      min-height: 500px;
+ }
+
+ .none{
+    font-size: 9pt;
+    text-align:left; 
+    list-style-type: none;
+ }
+ li.small{
+    margin: 0;
+    padding: 10em;
+}
